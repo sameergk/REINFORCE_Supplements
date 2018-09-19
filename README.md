@@ -1,7 +1,5 @@
-# REINFORCE_Supplements
+# REINFORCE Artifacts [artifacts]
 Additional data and scripts for REINFORCE
-
-[REINFORCE][artifacts]
 ==
 
 Notes 
