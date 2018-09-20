@@ -7,15 +7,15 @@ Notes
 
 Source Code
 --
-Currently in the OpenNetVM Dev branch: OpenNetVM-dev
-[https://github.com/sameergk/openNetVM-dev/tree/nfv_res]
+Currently in the OpenNetVM Dev branch: [OpenNetVM-dev][org_source]
+Branched to the repository[REINFORCE_SOURCE][reinforce] 
 
-Dataset [data]
+Dataset
 --
 Dataset for the evaluation.
 
 
-Evaluation Plots [plots]
+Evaluation Plots
 --
 GNU plot scripts and plot specific data.
 
@@ -27,3 +27,9 @@ _Please let us know if you have any questions on REINFORCE by [emailing us](mail
 About
 --
 _Want to get started quickly?_ Try using our NSF CloudLab profile: https://www.cloudlab.us/p/GWCloudLab/onvm-18.03
+
+[org_source][https://github.com/sameergk/openNetVM-dev/tree/nfv_res]
+[reinforce]: https://github.com/sameergk/REINFORCE_SOURCE
+[onvm]: http://sdnfv.github.io/onvm/
+[license]: LICENSE
+[dpdk]: http://dpdk.org
