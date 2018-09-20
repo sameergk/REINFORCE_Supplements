@@ -6,8 +6,9 @@ Notes
 
 Source Code
 --
-Currently in the OpenNetVM Dev branch: [OpenNetVM-dev][org_source]
-Alternative accessible repository: [REINFORCE_SOURCE][reinforce] 
+Currently in the OpenNetVM-Dev branch [OpenNetVM-dev][org_source]
+
+Alternative accessible repository[REINFORCE_SOURCE][reinforce] 
 
 Dataset
 --
