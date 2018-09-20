@@ -6,7 +6,7 @@ Notes
 
 Source Code
 --
-Currently in the OpenNetVM-Dev branch [OpenNetVM-dev][org_source]
+Currently in the OpenNetVM-Dev branch [OpenNetVM-dev][source]
 
 Alternative accessible repository[REINFORCE_SOURCE][reinforce] 
 
@@ -28,7 +28,7 @@ About
 --
 _Want to get started quickly?_ Try using our NSF CloudLab profile: https://www.cloudlab.us/p/GWCloudLab/onvm-18.03
 
-[org_source][https://github.com/sameergk/openNetVM-dev/tree/nfv_res]
+[source]: https://github.com/sameergk/openNetVM-dev/tree/nfv_res
 [reinforce]: https://github.com/sameergk/REINFORCE_SOURCE
 [onvm]: http://sdnfv.github.io/onvm/
 [license]: LICENSE
