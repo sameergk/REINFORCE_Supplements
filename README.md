@@ -1,6 +1,5 @@
 # REINFORCE Artifacts
-Additional data and scripts for REINFORCE
-
+Additional data, test scripts and plot scripts for REINFORCE
 
 Notes 
 --
@@ -8,7 +7,7 @@ Notes
 Source Code
 --
 Currently in the OpenNetVM Dev branch: [OpenNetVM-dev][org_source]
-Branched to the repository[REINFORCE_SOURCE][reinforce] 
+Alternative accessible repository: [REINFORCE_SOURCE][reinforce] 
 
 Dataset
 --
