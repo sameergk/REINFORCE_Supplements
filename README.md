@@ -6,13 +6,13 @@ Notes
 
 Source Code
 --
-Currently in the OpenNetVM-Dev branch [OpenNetVM-dev][source]
+Currently in the OpenNetVM-Dev branch: [OpenNetVM-dev][source]
 
-Alternative accessible repository[REINFORCE_SOURCE][reinforce] 
+Alternative accessible repository: [REINFORCE_SOURCE][reinforce] 
 
 Dataset
 --
-Dataset for the evaluation.
+Dataset used for the evaluation.
 
 
 Evaluation Plots
